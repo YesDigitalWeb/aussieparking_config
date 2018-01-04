@@ -1,0 +1,37 @@
+{
+	"host": "aussie-parking.theplant-dev.com",
+
+	"mail": {
+		"info": "bom.d.van+info@gmail.com",
+		"admin": "bom.d.van+admin@gmail.com",
+		"bookings": "bom.d.van+bookings@gmail.com",
+
+		"host": "localhost",
+		"port": ":25",
+		"username": "",
+		"password": ""
+	},
+
+	"MailChimpApiKey": "2ade1fbf4743f803da76b6559a76ffcb-us10",
+	"MailChimpListName": "The Plant Dev",
+
+	"db": {
+		"name": "aussie_parking",
+		"user": "root",
+		"password": ""
+	},
+
+	"influx": {
+		"url": "https://influxdb.theplant-dev.com:8086",
+		"DBName": "ap_dev",
+		"Username": "ap_dev",
+		"Password": "8g.pSpcY32y3u8#WzkAc"
+	},
+
+	"paypal": {
+		"Gateway":  "https://pilot-payflowpro.paypal.com",
+		"Partner":  "PayPal",
+		"User":     "jinzhu",
+		"Password": "aaa715907"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"db": {
+		"host": "tcp(172.31.26.88:3306)",
+		"name": "aussie_parking_production",
+		"user": "aussie_parking",
+		"password": "rV7mjQg3K9D5KytAQM"
+	},
+
+	"paypal": {
+		"Gateway":  "https://payflowpro.paypal.com",
+		"Partner":  "VSA",
+		"Vendor":   "aussieairport",
+		"User":     "theplantAPI",
+		"Password": "j9GrKv8u2dDBQSWwe"
+	},
+
+	"RollbarToken": "d39b38f1b09c421bbbc56d4ab2b9d168"
+}

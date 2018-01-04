@@ -1,0 +1,33 @@
+{
+	"host": "localhost:7000",
+
+	"mail": {
+		"info": "bom.d.van+info@gmail.com",
+		"admin": "bom.d.van+admin@gmail.com",
+		"bookings": "bom.d.van+bookings@gmail.com",
+
+		"TestRecipient": "bom.d.van@gmail.com",
+
+		"host": "127.0.0.1",
+		"port": ":1025",
+		"username": "",
+		"password": ""
+	},
+
+	"MailChimpListName": "The Plant Dev",
+
+	"GAPropertyID": "UA-63788676-1",
+
+	"db": {
+		"name": "aussie_parking_test",
+		"user": "root",
+		"password": ""
+	},
+
+	"paypal": {
+		"Gateway":  "https://pilot-payflowpro.paypal.com",
+		"Partner":  "PayPal",
+		"User":     "jinzhu",
+		"Password": "aaa715907"
+	}
+}

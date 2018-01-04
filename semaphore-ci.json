@@ -1,0 +1,29 @@
+{
+	"mail": {
+		"admin": "aussie-dev@theplant.jp",
+		"host": "smtp.sendgrid.net",
+		"port": ":25",
+		"username": "",
+		"password": ""
+	},
+
+	"MailChimpListName": "The Plant Dev",
+
+	"db": {
+		"name": "aussie_parking_test",
+		"user": "root",
+		"password": "semaphoredb"
+	},
+
+	"cookie": {
+		"userkey": "ZcN@QEQVw9bp9B42vamvEWEYxHQ5v2#3",
+		"adminkey": "7yc!nMzE#TPg8WwvG!E92bjK8uRzAwp3"
+	},
+
+	"paypal": {
+		"Gateway":  "https://pilot-payflowpro.paypal.com",
+		"Partner":  "PayPal",
+		"User":     "jinzhu",
+		"Password": "aaa715907"
+	}
+}

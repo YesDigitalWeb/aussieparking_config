@@ -1,0 +1,49 @@
+{
+	"https": true,
+	"host": "aussieparking.com.au",
+
+	"mail": {
+		"info": "info@aussieparking.com.au",
+		"admin": "serveradmin@aussieparking.com.au",
+		"bookings": "bookings@aussieparking.com.au",
+
+		"host": "localhost",
+		"port": ":25",
+		"username": "",
+		"password": ""
+	},
+
+	"MailChimpApiKey": "2ade1fbf4743f803da76b6559a76ffcb-us10",
+	"MailChimpListName": "Aussie Parking Special Campaigns And Discounts",
+
+	"GAPropertyID": "UA-31291157-1",
+
+	"db": {
+		"host": "tcp(172.31.26.88:3306)",
+		"name": "aussie_parking_production",
+		"user": "aussie_parking",
+		"password": "rV7mjQg3K9D5KytAQM"
+	},
+
+	"paypal": {
+		"Gateway":  "https://payflowpro.paypal.com",
+		"Partner":  "VSA",
+		"Vendor":   "aussieairport",
+		"User":     "theplantAPI",
+		"Password": "j9GrKv8u2dDBQSWwe"
+	},
+
+	"cookie": {
+		"userkey": "J!2s@Tj#fmZuM6!EYFeTQMq4Qc@m#U#s",
+		"adminkey": "PmRYHVUYKx#p.p8dDmNcpSCEJ4Czgw_5"
+	},
+
+	"influx": {
+		"url": "https://influxdb.theplant-dev.com:8086",
+		"DBName": "ap_prod",
+		"Username": "ap_prod",
+		"Password": "r98K69VapZq3Bq5cK_TX"
+	},
+
+	"RollbarToken": "d39b38f1b09c421bbbc56d4ab2b9d168"
+}
